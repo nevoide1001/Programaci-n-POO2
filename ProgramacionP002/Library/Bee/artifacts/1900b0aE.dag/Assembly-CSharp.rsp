@@ -362,6 +362,7 @@
 "Assets/Script/ItemButton.cs"
 "Assets/Script/IUsable.cs"
 "Assets/Script/Other.cs"
+"Assets/Script/UI.cs"
 "Assets/Script/Weapon.cs"
 -langversion:9.0
 /deterministic

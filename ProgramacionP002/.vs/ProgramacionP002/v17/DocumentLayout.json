@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\assets\\script\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|c:\\users\\usuario\\documents\\programaci-n-poo2\\programacionp002\\assets\\script\\inventorysistem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inventorysistem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\assets\\script\\inventorysistem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inventorysistem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|c:\\users\\usuario\\documents\\programaci-n-poo2\\programacionp002\\assets\\script\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|c:\\users\\usuario\\documents\\programaci-n-poo2\\programacionp002\\assets\\script\\itembutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\itembutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\assets\\script\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\assets\\script\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\assets\\script\\iusable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\iusable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\assets\\script\\other.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\other.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\assets\\script\\ishellable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ishellable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\assets\\script\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58588F63-C01E-ED6C-1A61-EF21F1115666}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,58 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\Item.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Item.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\Item.cs",
-              "RelativeToolTip": "Assets\\Script\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T12:16:57.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InventorySistem.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\InventorySistem.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\InventorySistem.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\InventorySistem.cs",
-              "RelativeToolTip": "Assets\\Script\\InventorySistem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T12:09:58.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Food.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\Food.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Food.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\Food.cs",
-              "RelativeToolTip": "Assets\\Script\\Food.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T12:22:50.906Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Weapon.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\Weapon.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Weapon.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\Weapon.cs",
-              "RelativeToolTip": "Assets\\Script\\Weapon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T12:20:26.556Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -102,46 +36,49 @@
               "RelativeDocumentMoniker": "Assets\\Script\\ItemButton.cs",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\ItemButton.cs",
               "RelativeToolTip": "Assets\\Script\\ItemButton.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T15:05:16.817Z",
+              "WhenOpened": "2026-02-04T04:16:05.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUsable.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\IUsable.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\IUsable.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\IUsable.cs",
-              "RelativeToolTip": "Assets\\Script\\IUsable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\Item.cs",
+              "RelativeToolTip": "Assets\\Script\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T12:10:25.489Z"
+              "WhenOpened": "2026-02-04T04:15:22.732Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Other.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\Other.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Other.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\Other.cs",
-              "RelativeToolTip": "Assets\\Script\\Other.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "InventorySistem.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\InventorySistem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\InventorySistem.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\InventorySistem.cs",
+              "RelativeToolTip": "Assets\\Script\\InventorySistem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T12:24:06.524Z"
+              "WhenOpened": "2026-02-04T02:37:56.052Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IShellable.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\IShellable.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\IShellable.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\IShellable.cs",
-              "RelativeToolTip": "Assets\\Script\\IShellable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\UI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Programaci-n-POO2\\ProgramacionP002\\Assets\\Script\\UI.cs",
+              "RelativeToolTip": "Assets\\Script\\UI.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswHYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T12:09:56.928Z"
+              "WhenOpened": "2026-02-04T02:37:50.568Z",
+              "EditorCaption": ""
             }
           ]
         }

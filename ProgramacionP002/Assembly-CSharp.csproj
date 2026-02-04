@@ -68,6 +68,7 @@
     <Compile Include="Assets\Script\Weapon.cs" />
     <Compile Include="Assets\Script\Food.cs" />
     <Compile Include="Assets\Script\InventorySistem.cs" />
+    <Compile Include="Assets\Script\UI.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
